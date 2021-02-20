@@ -1,0 +1,22 @@
+{
+  "name": "axxTest",
+  "version": "0.1.0",
+  "summary": "A short description of axxTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Moving-BC/axxTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Moving-BC": "baichao@aixuexi.com"
+  },
+  "source": {
+    "git": "https://github.com/Moving-BC/axxTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "axxTest/Classes/**/*"
+}

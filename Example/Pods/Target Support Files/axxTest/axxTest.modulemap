@@ -1,0 +1,6 @@
+framework module axxTest {
+  umbrella header "axxTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
